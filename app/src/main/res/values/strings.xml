@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AulaIntent</string>
+    <string name="cadastrar_nova_senha">Cadastrar nova senha</string>
+    <string name="email">E-mail</string>
+    <string name="cadastro_de_nova_senha">Cadastro de nova senha</string>
+    <string name="login">Login</string>
+    <string name="emails">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+</resources>
